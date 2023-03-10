@@ -1,0 +1,13 @@
+<p:sp>  
+  <p:txBody>  
+    <a:bodyPr wrap="none" rtlCol="0">  
+      <a:prstTxWarp prst="textInflate">  
+      </a:prstTxWarp>  
+      <a:spAutoFit/>  
+    </a:bodyPr>  
+    <a:lstStyle/>  
+    <a:p>  
+…      <a:t>Sample Text</a:t>  
+…    </a:p>  
+  </p:txBody>  
+</p:sp>
